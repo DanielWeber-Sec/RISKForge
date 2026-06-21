@@ -55,29 +55,19 @@ The project demonstrates how governance and security requirements can be transla
 
 ## MVP
 
-The first version will include:
+The first release focuses on a functional risk-management workflow:
 
-* risk register
-* likelihood and impact scoring
-* inherent and residual risk
-* risk owners and treatment decisions
-* treatment actions
-* control mapping
-* dashboard and risk heatmap
-* CSV export
-
+- risk register
+- risk scoring
+- treatment actions
+- control mapping
+- dashboard and heatmap
+- CSV export
 ---
 
 ## Technology Stack
 
-| Area        | Technology |
-| ----------- | ---------- |
-| Application | Python     |
-| Interface   | Streamlit  |
-| Database    | SQLite     |
-| Charts      | Plotly     |
-| Validation  | Pydantic   |
-| Testing     | Pytest     |
+`Python` · `Streamlit` · `SQLite` · `Plotly` · `Pydantic` · `Pytest`
 
 ---
 
