@@ -1,5 +1,7 @@
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td>
 
@@ -16,29 +18,30 @@
 </tr>
 </table>
 
-
 # RISKForge
 
 ### Lightweight GRC & ISMS Management Platform
 
-> Practical governance, risk, compliance, audit, and evidence management in one focused workspace.
+Practical governance, risk, compliance, audit, and evidence management in one focused workspace.
 
 <br>
 
-![Project Status](https://img.shields.io/badge/status-early%20development-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-database-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-dashboards-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-testing-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+![Status](https://img.shields.io/badge/status-early%20development-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-database-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-dashboards-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Portfolio Project](https://img.shields.io/badge/type-portfolio%20project-6f42c1?style=flat-square)
 
-<br>
+<br><br>
 
-> Best viewed in GitHub Dark Mode.
+<sub>Best viewed in GitHub Dark Mode.</sub>
 
 </div>
+
+---
 
 ---
 
